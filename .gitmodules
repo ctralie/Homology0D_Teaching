@@ -1,0 +1,3 @@
+[submodule "pyhks"]
+	path = pyhks
+	url = https://github.com/ctralie/pyhks.git
